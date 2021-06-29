@@ -1,5 +1,5 @@
 %A software package for optimizing synchronization of coupled oscillators with high-order networks
-%(c) 2021 Ying Tang 
+%(c) 2021 Ying Tang, Dinghua Shi, Linyuan Lv
 %All rights reserved. 
 %This MATLAB code package optimizes network topology for synchronization of coupled oscillators 
 %with high-order interactions. The current focus is the system with Kuramoto-type coupling function 
