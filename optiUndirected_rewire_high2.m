@@ -94,7 +94,7 @@ r_target = r_targetFinal;%1;%
 %% Start optimization
 
 % inverse temperature used in simulated annealings (different for each run)
-Beta = linspace(50,500,Run);
+Beta = linspace(1,500,Run);
 % remove records the number of links removed before the target eigen-ratio is reached at each run
 remove = zeros(1,Run);
 
